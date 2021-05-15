@@ -74,5 +74,6 @@ In this new folder, make sure you have the following files and folders (For refe
 
 Once the folder along with the above contents are made. Add the final picture of your setup to the main ReadMe file in the Hardware Designs folder with your version number so that someone can find the full design evolution in one page. 
 Please submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) with your changes. We will review the changes and add to the Github project page.
+
 6. How can I contact the team?  \
 Drop us a mail at rebreather@tctd.iitb.ac.in
