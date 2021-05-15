@@ -71,7 +71,8 @@ In this new folder, make sure you have the following files and folders (For refe
 - *Bill of Materials* --> Bill of materials file containing the parts to be purchased/3D printed/Lasercut/moulded 
 - *Mechanical CAD Folder* --> Containing editable files for the community along with the 3D printed files(if any) 
 - *ReadMe.md* file --> Detailing the changes made and why you think it is better. Add a picture of the full setup. List potential issues you find in the version you build so that others can help suggest improvements. 
+
 Once the folder along with the above contents are made. Add the final picture of your setup to the main ReadMe file in the Hardware Designs folder with your version number so that someone can find the full design evolution in one page. 
 Please submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) with your changes. We will review the changes and add to the Github project page.
-6. How can I contact the team? 
+6. How can I contact the team?  \
 Drop us a mail at rebreather@tctd.iitb.ac.in
