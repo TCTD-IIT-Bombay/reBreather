@@ -1,6 +1,6 @@
 # Overview
 
-There is currently an acute shortage of medical grade oxygen in large parts of the country, as a consequence of a big surge in the number of critical Covid-19 cases, as well as logistical challenges associated with the oxygen supply chain. Several past and current students and research staff members of  [IIT Bombay](https://www.iitb.ac.in) (affiliated with [Tata Centre for Technology and Design](http://www.tatacentre.iitb.ac.in/), [Chemical Engineering](https://www.che.iitb.ac.in), and [Nex Robotics](http://www.nex-robotics.com)) have come together to attempt solutions which focus on reducing O<sub>2</sub> wastage, from the patient consumption perspective.
+There is currently an acute shortage of medical grade oxygen in large parts of India, as a consequence of a big surge in the number of critical Covid-19 cases, as well as logistical challenges associated with the oxygen supply chain. Several past and current students and research staff members of  [IIT Bombay](https://www.iitb.ac.in) (affiliated with [Tata Centre for Technology and Design](http://www.tatacentre.iitb.ac.in/), [Chemical Engineering](https://www.che.iitb.ac.in), and [Nex Robotics](http://www.nex-robotics.com)) have come together to attempt solutions which focus on reducing O<sub>2</sub> wastage, from the patient consumption perspective.
 
 We have built a prototype breathing device called reBreather, which can minimize the wastage of oxygen when a patient is put on assisted breathing with supplemental oxygen via O<sub>2</sub> cylinders or centralised O<sub>2</sub> supply in hospitals.  Our reBreather prototype is a semi-closed circular breathing system that would allow patients to breathe in unused exhaled oxygen which has been filtered to remove CO<sub>2</sub>.
 
@@ -50,7 +50,7 @@ Approximate calculations of unit performance are provided below for various scen
 Yes, you can. However, (as explained above) it should be used solely under the supervision of a trained medical professional. 
 
 2. Is the design open source? \
-Yes. The entire hardware design is made available in the public domain under a Creative Commons 4.0 license [(CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). This design is accessible on our [GitHub page](https://github.com/TCTD-IIT-Bombay/reBreather). 
+Yes. The entire hardware design is made available in the public domain under a Creative Commons 4.0 license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). This design is accessible on our [GitHub page](https://github.com/TCTD-IIT-Bombay/reBreather). 
 
 3. How can I help? \
 You can also help us in testing the design, and by suggesting modifications to further improve its performance and manufacturability. Talk to doctors and give us their inputs. There are several elements in the design which can be further optimised. Our primary focus during this initial build cycle has been on establishing efficacy of the design. We have, to a lesser extent, focussed on incorporating off the shelf branded parts which we think anyone else would also be able to source locally. Feel free to fork the project, edit it and create pull requests if you have a way to make the design better or have an alternate design which will work.
