@@ -7,8 +7,8 @@ We have built a prototype breathing device called reBreather, which can minimize
 ![reBreather Flow](./assets/reBreather_Schematic.jpg)
 
 The hardware design is available in the public domain under the Creative Commons 4.0 license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) so that others can replicate the design. We urge individuals and makers communities across the world to come forward and 
-1. help assemble copies of the prototype, and 
-2. contribute design improvements or customizations, including for better scalability. 
+1. Help assemble copies of the prototype, and 
+2. Contribute design improvements or customizations, including for better scalability. 
 
 This design has currently been tested on healthy volunteers: our objective in releasing this design now is to document the science behind the technique and test that it works in a practical context, and potentially help mitigate wastage of O<sub>2</sub> at a time when there is a heavy demand for it.
 
@@ -64,6 +64,7 @@ There are further modifications that we are working on to make the designs bette
 5. How can I add modifications to the design? \
 We urge you to contribute back any design updates. You can fork this  project (learn how to do so [here](https://www.youtube.com/watch?v=_NrSWLQsDL4)) and create a copy. Now create a new subfolder inside the Hardware Designs folder with the latest version number. The versioning scheme (**vX.Y**) is as follows: \
 v1.0 --> Original Design \
+v2.0 --> Updated Design \
 For major modifications to a particular design, increment X by 1 (eg. v2.0, v3.0). If you make a minor edit to a particular design, increment Y by 1, from the base design you modified (eg. v1.2, v1.4, v2.3).\
 In this new folder, make sure you have the following files and folders (For reference check the original v1.0 folder) 
 - *Hardware Parts Explained.pdf* --> Explaining each and very part of your design with pictures 
