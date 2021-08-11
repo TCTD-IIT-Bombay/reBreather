@@ -4,7 +4,7 @@ There is currently an acute shortage of medical grade oxygen in large parts of I
 
 We have built a prototype breathing device called reBreather, which can minimize the wastage of oxygen when a patient is put on assisted breathing with supplemental oxygen via O<sub>2</sub> cylinders or centralised O<sub>2</sub> supply in hospitals.  Our reBreather prototype is a semi-closed circular breathing system that would allow patients to breathe in unused exhaled oxygen which has been filtered to remove CO<sub>2</sub>.
 
-![reBreather Flow](./assets/reBreather_Schematic.jpg)
+![reBreather Flow](./assets/reBreather_Schematic-v2.0.jpg)
 
 The hardware design is available in the public domain under the Creative Commons 4.0 license ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) so that others can replicate the design. We urge individuals and makers communities across the world to come forward and 
 1. Help assemble copies of the prototype, and 
