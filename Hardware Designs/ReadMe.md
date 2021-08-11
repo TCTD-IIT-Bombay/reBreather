@@ -23,3 +23,7 @@ Please submit a [pull request](https://docs.github.com/en/github/collaborating-w
 ### ***v1.0***
 
 ![v1.0](./v1.0/v1.0.png)
+
+### ***v2.0***
+
+![v2.0](./v2.0/v2.0.jpg)
