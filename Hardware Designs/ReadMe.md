@@ -5,6 +5,7 @@ We urge you to contribute and make the published designs better. You can fork th
 The versioning scheme (**vX.Y**) is as follows: 
 
 v1.0 --> Original Design 
+v2.0 --> Updated Design
 
 For major modifications to a particular design, increment X by 1 (eg. v2.0, v3.0). If you make a minor edit to a particular design, increment Y by 1, from the base design you modified (eg. v1.2, v1.4, v2.3). 
 In this new folder, make sure you have the following files and folders (For reference check the original v1.0 folder) 
