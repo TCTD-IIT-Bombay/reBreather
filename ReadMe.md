@@ -57,9 +57,10 @@ You can also help us in testing the design, and by suggesting modifications to f
 You can also help us (and others) by finding better vendor sources in your city.     
 
 4. What is the current status of the project?  \
-(As of May 15 2021:) We are releasing version v1.0 of the reBreather prototype design. This design has been tested on a healthy team member who was hooked up to a patient monitoring device, under the supervision of clinical specialists.  His vital signs, breathing rate, inhalation & exhalation O<sub>2</sub> /CO<sub>2</sub>  levels were monitored. \
+(As of Aug 11 2021:) We are releasing version v2.0 of the reBreather prototype design. This design has been tested on a healthy team member who was hooked up to a patient monitoring device, under the supervision of clinical specialists.  His vital signs, breathing rate, inhalation & exhalation O<sub>2</sub> /CO<sub>2</sub>  levels were monitored. \
 At a low O<sub>2</sub>  input flow rate of 1 L/min, the volunteer was able to maintain normal breathing patterns with O<sub>2</sub>  and CO<sub>2</sub>  levels well within limits. We were able to establish that CO<sub>2</sub>  is continuously being removed from the system. \
-There are further modifications that we are working on to make the designs better and easier to manufacture. We will keep updating the Hardware design folder with design variations as and when these changes are introduced. We are also working on protocols to safely regenerate soda lime for reuse; we will share our results on this effort, shortly.
+A few changes were made on the v1.0 prototype design which includes adding another breathing bag after the, venturi valve, changes in the design of the jar lid and the adapters to have a more efficient pathway to flow. Iterative experiments were also conducted on soda lime to test the amount of C0<sub>2</sub> absorbed and how to make it more long lasting. This version of prototype is now undergoing clinical trials.
+There are further modifications that we are working on to make the designs better and easier to manufacture. We will keep updating the Hardware design folder with design variations as and when these changes are introduced.
 
 5. How can I add modifications to the design? \
 We urge you to contribute back any design updates. You can fork this  project (learn how to do so [here](https://www.youtube.com/watch?v=_NrSWLQsDL4)) and create a copy. Now create a new subfolder inside the Hardware Designs folder with the latest version number. The versioning scheme (**vX.Y**) is as follows: \
